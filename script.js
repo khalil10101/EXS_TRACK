@@ -1,6 +1,19 @@
+<<<<<<< HEAD
 const MODULES = [
   { name: "Java", td: 3, tp: 4  },
   { name: "Compilation", td: 1, tp: 3  },  
+=======
+/* =====================================================
+   1) EDIT HERE: your 5 modules
+   -----------------------------------------------------
+   name : the module name shown on the square
+   td   : number of TD series (0 to 6)
+   tp   : number of TP series (0 to 6)
+   ===================================================== */
+const MODULES = [
+  { name: "Java", td: 3, tp: 4  },
+  { name: "Compilation", td: 1, tp: 2  },  
+>>>>>>> 1c3db0ceaf69de4d7d80cf1c228fc1935eadc1a2
   { name: "Base de Donne", td: 4, tp: 4 },  
   { name: "I.A", td: 1 , tp:  2 },  
   { name: "reseau", td: 1 , tp: 2 },  

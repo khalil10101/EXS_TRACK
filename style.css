@@ -8,6 +8,7 @@
   --done-text: #ffffff;
 }
 :root[data-theme="dark"] {
+<<<<<<< HEAD
   --bg: #2b2b2b;
   --text: #f2f2f2;
   --muted: #b0b0b0;
@@ -15,6 +16,15 @@
   --card: #353535;
   --done-bg: #3ccf80;
   --done-text: #111111;
+=======
+  --bg: #000000;
+  --text: #ffffff;
+  --muted: #a3a3a3;
+  --line: #ffffff;
+  --card: #000000;
+  --done-bg: #2fbf71;
+  --done-text: #000000;
+>>>>>>> 1c3db0ceaf69de4d7d80cf1c228fc1935eadc1a2
 }
 
 * { box-sizing: border-box; }
