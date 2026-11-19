@@ -1,8 +1,8 @@
 const MODULES = [
   { name: "Java", td: 3, tp: 4  },
   { name: "Compilation", td: 1, tp: 3  },  
-  { name: "Base de Donne", td: 4, tp: 4 },  
-  { name: "I.A", td: 1 , tp: 2 },  
+  { name: "Base de Donne", td: 4, tp: 6 },  
+  { name: "I.A", td: 1 , tp: 3 },  
   { name: "reseau", td: 1 , tp: 2 },  
 ];
 
